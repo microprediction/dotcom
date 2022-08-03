@@ -1,6 +1,10 @@
 ## Microprediction Minimalist User Guide 
 
-You can create a stream by modifying [create_a_stream.py](https://github.com/microprediction/microprediction/blob/master/hello_world/create_a_stream.py). 
+Take a moment to [browse_streams](https://www.microprediction.org/browse_streams.html) at microprediction.org. These are all created by people like you who publish scalar "ground truth" values one at a time, in order to initiate contests between prediction algorithms. The net result of these contests are beautiful community cumulative distribution functions like [this one](https://www.microprediction.org/stream_dashboard.html?stream=faang_1&horizon=3555) for the 1-hour ahead distriubtion of changes to the logarithm of the price of META stock. 
+
+
+
+You can create your own stream by modifying [create_a_stream.py](https://github.com/microprediction/microprediction/blob/master/hello_world/create_a_stream.py) and running it. 
 
 
 
